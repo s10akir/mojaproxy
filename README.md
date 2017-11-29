@@ -1,0 +1,2 @@
+# mojaproxy
+easy proxy switcher
