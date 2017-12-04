@@ -20,7 +20,7 @@ PROXY = 'http://proxy.example.com:port/'
 
 3. pathを通す
 ```
-echo 'export PATH="$HOME/.mojaproxy"' >> ~/.bashrc
+echo 'export PATH="$HOME/.mojaproxy:$PATH"' >> ~/.bashrc
 ```
 
 4. 実行
